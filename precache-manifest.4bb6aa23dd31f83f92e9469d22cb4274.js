@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/generator-password-sandi/img/key.1995dfe5.svg"
   },
   {
-    "revision": "2b8b272459c266fcf8bd21c1db91487e",
+    "revision": "b8df9c1ede3c12fe839a66d26b0312fd",
     "url": "/generator-password-sandi/index.html"
   },
   {
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/generator-password-sandi/js/runtime-legacy.9ae74901.js"
   },
   {
-    "revision": "53028020cd4feb40617729e24dcc9cf4",
+    "revision": "703121c98ca3a868f245d8aac57ea32c",
     "url": "/generator-password-sandi/manifest.json"
   }
 ]);

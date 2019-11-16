@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/generator-password-sandi/precache-manifest.fde98d0544cdfa51cd27997bd2501e08.js"
+  "/generator-password-sandi/precache-manifest.4f6128b68e8c6e59a008febf7802e80c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "password-generator"});
